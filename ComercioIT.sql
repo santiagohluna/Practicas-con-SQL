@@ -14,7 +14,7 @@ create table Productos(
     Disponible boolean default false
 );
 
-# drop table Productos;
+-- drop table Productos;
 
 show databases;
 
